@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/beegame/static/css/main.8ac4ba0a.chunk.css",
-    "main.js": "/beegame/static/js/main.761db39e.chunk.js",
-    "main.js.map": "/beegame/static/js/main.761db39e.chunk.js.map",
+    "main.js": "/beegame/static/js/main.dbf0f4cb.chunk.js",
+    "main.js.map": "/beegame/static/js/main.dbf0f4cb.chunk.js.map",
     "runtime-main.js": "/beegame/static/js/runtime-main.9a883c5f.js",
     "runtime-main.js.map": "/beegame/static/js/runtime-main.9a883c5f.js.map",
     "static/css/2.09e62520.chunk.css": "/beegame/static/css/2.09e62520.chunk.css",
     "static/js/2.932b4906.chunk.js": "/beegame/static/js/2.932b4906.chunk.js",
     "static/js/2.932b4906.chunk.js.map": "/beegame/static/js/2.932b4906.chunk.js.map",
     "index.html": "/beegame/index.html",
-    "precache-manifest.6bb0ee15925b7ee93b6bcf2bea49424d.js": "/beegame/precache-manifest.6bb0ee15925b7ee93b6bcf2bea49424d.js",
+    "precache-manifest.02fc7133a3fdbaec89ba3e497e2c730d.js": "/beegame/precache-manifest.02fc7133a3fdbaec89ba3e497e2c730d.js",
     "service-worker.js": "/beegame/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/beegame/static/css/2.09e62520.chunk.css.map",
     "static/css/main.8ac4ba0a.chunk.css.map": "/beegame/static/css/main.8ac4ba0a.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.09e62520.chunk.css",
     "static/js/2.932b4906.chunk.js",
     "static/css/main.8ac4ba0a.chunk.css",
-    "static/js/main.761db39e.chunk.js"
+    "static/js/main.dbf0f4cb.chunk.js"
   ]
 }
