@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/beegame/static/css/main.8ac4ba0a.chunk.css",
+    "main.js": "/beegame/static/js/main.4f7dfe8b.chunk.js",
+    "main.js.map": "/beegame/static/js/main.4f7dfe8b.chunk.js.map",
+    "runtime-main.js": "/beegame/static/js/runtime-main.9a883c5f.js",
+    "runtime-main.js.map": "/beegame/static/js/runtime-main.9a883c5f.js.map",
+    "static/css/2.09e62520.chunk.css": "/beegame/static/css/2.09e62520.chunk.css",
+    "static/js/2.932b4906.chunk.js": "/beegame/static/js/2.932b4906.chunk.js",
+    "static/js/2.932b4906.chunk.js.map": "/beegame/static/js/2.932b4906.chunk.js.map",
+    "index.html": "/beegame/index.html",
+    "precache-manifest.59dd48ef00f544b8cbcdcb505695137e.js": "/beegame/precache-manifest.59dd48ef00f544b8cbcdcb505695137e.js",
+    "service-worker.js": "/beegame/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/beegame/static/css/2.09e62520.chunk.css.map",
+    "static/css/main.8ac4ba0a.chunk.css.map": "/beegame/static/css/main.8ac4ba0a.chunk.css.map",
+    "static/js/2.932b4906.chunk.js.LICENSE.txt": "/beegame/static/js/2.932b4906.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/beegame/static/media/logo.5c10d8f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a883c5f.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.932b4906.chunk.js",
+    "static/css/main.8ac4ba0a.chunk.css",
+    "static/js/main.4f7dfe8b.chunk.js"
+  ]
+}
