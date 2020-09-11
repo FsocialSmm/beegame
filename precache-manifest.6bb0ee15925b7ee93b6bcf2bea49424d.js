@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a69b038f42f1c79ebf3eed5abbc9d0ad",
+    "revision": "593fe11d32731c92fbeaa50c59e29f8a",
     "url": "/beegame/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beegame/static/css/2.09e62520.chunk.css"
   },
   {
-    "revision": "f1691d293cd491a613ca",
+    "revision": "9122e2ef81277242f900",
     "url": "/beegame/static/css/main.8ac4ba0a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beegame/static/js/2.932b4906.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1691d293cd491a613ca",
-    "url": "/beegame/static/js/main.4f7dfe8b.chunk.js"
+    "revision": "9122e2ef81277242f900",
+    "url": "/beegame/static/js/main.761db39e.chunk.js"
   },
   {
     "revision": "49ee29f86d3457536092",
